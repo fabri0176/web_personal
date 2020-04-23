@@ -1,3 +1,28 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@fabri0176 
+Learn Git and GitHub without any code!
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+
+
+fabri0176
+/
+web_personal
+1
+0
+0
+ Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security 0 Insights Settings
+web_personal/.gitignore
+@fabri0176 fabri0176 Initial commit
+55af3a5 1 minute ago
+129 lines (105 sloc)  1.76 KB
+  
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +152,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+.idea/
+.vscode/
